@@ -37,3 +37,17 @@ ______________________________________________________________________________
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
+
+
+
+
+
+___________________________________________________________________________________
+
+## 📚 Academic Projects
+
+### 🔹 Bluetooth LED Control using Arduino UNO
+- HC-05 Bluetooth module based wireless LED control
+- Mobile app controlled ON/OFF system
+- Implemented using Arduino IDE and Embedded C
+- Learned Bluetooth communication and hardware interfacing
