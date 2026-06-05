@@ -31,7 +31,7 @@ ________________________________________________________________________________
 - Worked on SDLC based IoT project building
 - Gained hands-on exposure to Embedded Systems and Bluetooth communication
 
- ______________________________________________________________________________
+ ________________________________________________________________________________
 
 ## 📚 Academic Projects
 
