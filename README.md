@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Electronics+Student;Programming+Learner;Keep+Learning+🚀" />
 </p>
 
-____________________________________________________________________________________
+_________________________________________________________________________________
 
 ## 🎓 about me 
 
