@@ -44,6 +44,40 @@ ________________________________________________________________________________
  
 ___________________________________________________________________________________
 
+
+
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/roshann_96?igsh=MWpjbG9xcm5oeDBvdA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/roshan-dhangar-0a8357399) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshandhangar05@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Roshann-96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Roshann-96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshann-96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Roshann-96&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________________
+
 ## 📊 My Activity Graph
 
 <p align="center">
