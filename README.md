@@ -28,6 +28,7 @@ ________________________________________________________________________________
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Roshann-96/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshandhangar05@gmail.com)
 
+
  
 ________________________________________________________________________________
 
@@ -65,6 +66,7 @@ ________________________________________________________________________________
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-blue?style=for-the-badge)
+
 
 
 
