@@ -11,6 +11,8 @@ ________________________________________________________________________________
 
 🔹 Currently learning C, Embedded C, Git, GitHub, and DSA.
 
+
+
 🔹 Built a Bluetooth Smart Light Control project using Arduino UNO and HC-05 Bluetooth Module.
 
 🔹 Actively solving LeetCode problems and sharing my coding journey on GitHub.
