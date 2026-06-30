@@ -7,17 +7,11 @@
 
 ________________________________________________________________________________
 
-## 🎓 about me 
+## 👨‍💻 about me 
 
-
-💻 2nd Year Electronics & Telecommunication Engineering Student  
-🚀 Currently learning new technologies.
-
-🌱 Improving problem-solving skills  
-📌 passionate about coding and building projects .
-
-[![LinkedIn]( https://www.linkedin.com/in/roshan-dhangar-0a8357399 )
-
+🔹 Currently learning C, Embedded C, Git, GitHub, and DSA.
+🔹 Built a Bluetooth Smart Light Control project using Arduino UNO and HC-05 Bluetooth Module.
+🔹 Actively solving LeetCode problems and sharing my coding journey on GitHub.
 
   ______________________________________________________________________________
 
