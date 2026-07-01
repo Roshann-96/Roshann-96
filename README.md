@@ -13,7 +13,7 @@ Electronics Engineering Student | Embedded Systems Enthusiast | C Programmer
   <img src="https://komarev.com/ghpvc/?username=Roshann-96&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -21,7 +21,7 @@ Electronics Engineering Student | Embedded Systems Enthusiast | C Programmer
 - 🔹 Completed an **IoT Internship at Emertxe**
 - 🔹 Built a **Bluetooth Smart Light Control System** using **Arduino UNO and HC-05 Bluetooth Module**
 - 🔹 Actively solving problems on **LeetCode** and sharing my coding journey on **GitHub**
-```
+
 
 __________________________________________________________________________________
 
@@ -102,6 +102,9 @@ ________________________________________________________________________________
   <img src="assets/space-shooter.gif" />
 </p>
 
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
 
 
 
