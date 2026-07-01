@@ -1,20 +1,30 @@
 
-<h1 align="center">Hi 👋, I'm Roshan Dhangar..</h1>
+```html
+<h1 align="center">Hi 👋, I'm Roshan Dhangar</h1>
+
+<h3 align="center">
+Electronics Engineering Student | Embedded Systems Enthusiast | C Programmer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile;Electronics+Student;Programming+Learner;Keep+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Electronics+Engineering+Student;Embedded+Systems+Enthusiast;IoT+Intern+%40+Emertxe;Learning+Data+Structures+%26+Algorithms;Keep+Learning+%F0%9F%9A%80" />
 </p>
 
-________________________________________________________________________________
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Roshann-96&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-## 👨‍💻 About Me 
+---
+
+## 👨‍💻 About Me
 
 - 🔹 Currently learning **C, Embedded C, Git, GitHub, and Data Structures & Algorithms (DSA)**
 - 🔹 Completed an **IoT Internship at Emertxe**
-- 🔹 Built a **Bluetooth Smart Light Control system** using **Arduino UNO and HC-05 Bluetooth module**  
+- 🔹 Built a **Bluetooth Smart Light Control System** using **Arduino UNO and HC-05 Bluetooth Module**
 - 🔹 Actively solving problems on **LeetCode** and sharing my coding journey on **GitHub**
+```
 
-  ______________________________________________________________________________
+__________________________________________________________________________________
 
 
 ## 🌐 Socials:
@@ -37,7 +47,7 @@ ________________________________________________________________________________
 - Worked on an SDLC-based IoT project
 - Gained hands-on exposure to Embedded Systems and Bluetooth communication
 
- ______________________________________________________________________________
+________________________________________________________________________________
 
 ## 📚 Academic Projects
 
@@ -79,15 +89,6 @@ ________________________________________________________________________________
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-
-
-
-
-
-
-
 ___________________________________________________________________________________
 
 ## 📊 My Activity Graph
@@ -96,7 +97,6 @@ ________________________________________________________________________________
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshann-96&theme=react-dark&hide_border=true&area=true&custom_title=Roshan%20Dhangar's%20Contribution%20Graph" />
 </p>
 
-__________________________________________________________________________________
 
 ## 🚀 Thanks for Visiting!
 <p align="center">
