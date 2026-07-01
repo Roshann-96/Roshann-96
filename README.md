@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 - Successfully completed an Internship in Internet of Things (IoT)
 - Learned C programming and Microcontrollers
-- Worked on SDLC based IoT project building
+- Worked on an SDLC-based IoT project
 - Gained hands-on exposure to Embedded Systems and Bluetooth communication
 
  ______________________________________________________________________________
@@ -42,6 +42,7 @@ ________________________________________________________________________________
 ## 📚 Academic Projects
 
 ### 🔹Bluetooth Smart Light Control System
+
 - HC-05 Bluetooth module based wireless LED control
 - Mobile app controlled ON/OFF system
 - Implemented using Arduino IDE and Embedded C
@@ -104,7 +105,5 @@ ________________________________________________________________________________
 
 
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+
 
