@@ -7,15 +7,12 @@
 
 ________________________________________________________________________________
 
-## 👨‍💻 about me 
+## 👨‍💻 About Me 
 
-🔹 Currently learning C, Embedded C, Git, GitHub, and DSA.
-
-
-
-🔹 Built a Bluetooth Smart Light Control project using Arduino UNO and HC-05 Bluetooth Module.
-
-🔹 Actively solving LeetCode problems and sharing my coding journey on GitHub.
+- 🔹 Currently learning **C, Embedded C, Git, GitHub, and Data Structures & Algorithms (DSA)**
+- 🔹 Completed an **IoT Internship at Emertxe**
+- 🔹 Built a **Bluetooth Smart Light Control system** using **Arduino UNO and HC-05 Bluetooth module**  
+- 🔹 Actively solving problems on **LeetCode** and sharing my coding journey on **GitHub**
 
   ______________________________________________________________________________
 
@@ -35,7 +32,7 @@ ________________________________________________________________________________
 ### IoT Intern | Emertxe
 📅 March 2026 – April 2026
 
-- Successfully completed Internship on Internet of Things (IoT)
+- Successfully completed an Internship in Internet of Things (IoT)
 - Learned C programming and Microcontrollers
 - Worked on SDLC based IoT project building
 - Gained hands-on exposure to Embedded Systems and Bluetooth communication
@@ -44,7 +41,7 @@ ________________________________________________________________________________
 
 ## 📚 Academic Projects
 
-### 🔹 Bluetooth LED Control using Arduino UNO
+### 🔹Bluetooth Smart Light Control System
 - HC-05 Bluetooth module based wireless LED control
 - Mobile app controlled ON/OFF system
 - Implemented using Arduino IDE and Embedded C
@@ -100,12 +97,14 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-## ■ My GitHub
+## 🚀 Thanks for Visiting!
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
 
 
 
-
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
 
