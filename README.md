@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Roshan Dhangar</h1>
 
 <h3 align="center">
-Electronics Engineering Student | Embedded Systems Enthusiast | C Programmer
+Electronics Engineering Student | Embedded Systems Learner | C Programmer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Electronics+Engineering+Student;Embedded+Systems+Enthusiast;IoT+Intern+%40+Emertxe;Learning+Data+Structures+%26+Algorithms;Keep+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Electronics+Engineering+Student;Embedded+Systems+Learner;IoT+Intern+%40+Emertxe;Learning+Data+Structures+%26+Algorithms;Keep+Learning+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -23,8 +23,7 @@ Electronics Engineering Student | Embedded Systems Enthusiast | C Programmer
 - 🔹 Actively solving problems on **LeetCode** and sharing my coding journey on **GitHub**
 
 
-__________________________________________________________________________________
-
+--------------------------------------------------------------------------
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/roshann_96?igsh=MWpjbG9xcm5oeDBvdA==)
@@ -34,9 +33,9 @@ ________________________________________________________________________________
 
 
  
-________________________________________________________________________________
+---------------------------------------------------------------------------
 
-  ## 💼 Internship Experience
+## 💼 Internship Experience
 
 ### IoT Intern | Emertxe
 📅 March 2026 – April 2026
@@ -46,20 +45,19 @@ ________________________________________________________________________________
 - Worked on an SDLC-based IoT project
 - Gained hands-on exposure to Embedded Systems and Bluetooth communication
 
-________________________________________________________________________________
+------------------------------------------------------------------------------------
 
 ## 📚 Academic Projects
 
-### 🔹Bluetooth Smart Light Control System
+### 🔹 Bluetooth Smart Light Control System
 
-- HC-05 Bluetooth module based wireless LED control
+- Developed a Bluetooth-based wireless LED control system using the HC-05 module
 - Mobile app controlled ON/OFF system
 - Implemented using Arduino IDE and Embedded C
 - Learned Bluetooth communication and hardware interfacing
 
  
-___________________________________________________________________________________
-
+-------------------------------------------------------------------------------------
 
 
 
@@ -82,13 +80,10 @@ ________________________________________________________________________________
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshann-96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Roshann-96&icon=5&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-___________________________________________________________________________________
+--------------------------------------------------------------------------------------
 
 ## 📊 My Activity Graph
 
@@ -96,11 +91,13 @@ ________________________________________________________________________________
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshann-96&theme=react-dark&hide_border=true&area=true&custom_title=Roshan%20Dhangar's%20Contribution%20Graph" />
 </p>
 
+-----------------------------------------------------------------------------------------
+## 🚀 Thanks for Visiting My Profile!
 
-## 🚀 Thanks for Visiting!
 <p align="center">
   <img src="assets/space-shooter.gif" />
 </p>
+
 
 <p align="center">
   ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
