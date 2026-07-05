@@ -14,7 +14,6 @@ Electronics Engineering Student | Embedded Systems Learner | C Programmer
 </p>
 
 
-
 ## 👨‍💻 About Me
 
 - 🔹 Currently learning **C, Embedded C, Git, GitHub, and Data Structures & Algorithms (DSA)**
