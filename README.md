@@ -45,7 +45,7 @@ Electronics Engineering Student | Embedded Systems Learner | C Programmer
 - Worked on an SDLC-based IoT project
 - Gained hands-on exposure to Embedded Systems and Bluetooth communication
 
-------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 
 ## 📚 Academic Projects
 
