@@ -33,7 +33,7 @@ Electronics Engineering Student | Embedded Systems Learner | C Programmer
 
 
  
-------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 ## 💼 Internship Experience
 
