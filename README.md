@@ -57,7 +57,7 @@ Electronics Engineering Student | Embedded Systems Learner | C Programmer
 - Learned Bluetooth communication and hardware interfacing
 
  
------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 
 
 
