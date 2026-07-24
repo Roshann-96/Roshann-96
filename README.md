@@ -23,7 +23,7 @@ Electronics Engineering Student | Embedded Systems Learner | C Programmer
 - 🔹 Actively solving problems on **LeetCode** and sharing my coding journey on **GitHub**
 
 
-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/roshann_96?igsh=MWpjbG9xcm5oeDBvdA==)
