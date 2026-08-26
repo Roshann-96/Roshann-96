@@ -17,10 +17,12 @@ Electronics Engineering Student | Embedded Systems Learner | C Programmer
 
 ## 👨‍💻 About Me
 
-- 🔹 Currently learning **C, Embedded C, Git, GitHub, and Data Structures & Algorithms (DSA)**
-- 🔹 Completed an **IoT Internship at Emertxe**
-- 🔹 Built a **Bluetooth Smart Light Control System** using **Arduino UNO and HC-05 Bluetooth Module**
-- 🔹 Actively solving problems on **LeetCode** and sharing my coding journey on **GitHub**
+* 🔹 Currently learning **C, Embedded C, Core Java, Git, GitHub, and Data Structures & Algorithms (DSA)**
+* 🔹 Completed an **IoT Internship at Emertxe**
+* 🔹 Built a **Bluetooth Smart Light Control System** using **Arduino UNO and HC-05 Bluetooth Module**
+* 🔹 Practicing **Java and C programming** to strengthen my coding and problem-solving skills
+* 🔹 Actively solving problems on **LeetCode** and sharing my coding journey on **GitHub**
+* 🔹 Interested in **Embedded Systems, Firmware Development, and Software Development**
 
 
 -------------------------------------------------------------------------------
