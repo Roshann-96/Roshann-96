@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Dhangar</h1>
 
 <h3 align="center">
-Electronics Engineering Student | Embedded Systems Learner | C Programmer
+Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
 </h3>
 
 
