@@ -75,15 +75,17 @@ Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Roshann-96&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## 📊 GitHub Analytics
 
-![](https://streak-stats.demolab.com/?user=Roshann-96&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshann-96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshann-96&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshann-96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshann-96&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 --------------------------------------------------------------------------------------
 
