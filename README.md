@@ -89,10 +89,11 @@ Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
 
 --------------------------------------------------------------------------------------
 
-## 📊 My Activity Graph
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshann-96&theme=react-dark&hide_border=true&area=true&custom_title=Roshan%20Dhangar's%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshann-96&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 --------------------------------------------------------------------------------------
