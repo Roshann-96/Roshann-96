@@ -39,6 +39,15 @@ Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
 
 ## 💼 Internship Experience
 
+### Java Programming Intern | Horizon TechX
+📅 August 2026
+
+- Selected for a **Virtual Java Programming Internship**
+- Learning and applying **Core Java programming concepts**
+- Working on assigned internship tasks and hands-on practice
+- Strengthening programming and problem-solving skills
+  
+
 ### IoT Intern | Emertxe
 📅 March 2026 – April 2026
 
