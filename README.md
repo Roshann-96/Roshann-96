@@ -103,17 +103,7 @@ Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roshann-96&theme=github_dark" width="100%" />
 </p>
 
---------------------------------------------------------------------------------------
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Roshann-96&theme=github-compact&hide_border=true&area=true" 
-    alt="Contribution Graph" 
-    width="100%"
-  />
-</p>
 
 --------------------------------------------------------------------------------------
 ## 🚀 Thanks for Visiting My Profile !
