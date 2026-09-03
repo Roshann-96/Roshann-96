@@ -88,25 +88,28 @@ Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshann-96&show_icons=true&theme=tokyonight" height="180" />
-  
-  <img src="https://streak-stats.demolab.com?user=Roshann-96&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roshann-96&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshann-96&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roshann-96&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roshann-96&theme=github_dark&utcOffset=5.5" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roshann-96&theme=github_dark" width="100%" />
+</p>
 
---------------------------------------------------------------------------------------
-
-
+---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshann-96&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roshann-96&theme=github_dark" width="100%" />
 </p>
+
+--------------------------------------------------------------------------------------
+
 
 --------------------------------------------------------------------------------------
 ## 🚀 Thanks for Visiting My Profile !
