@@ -91,9 +91,11 @@ Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
 ------------------------------------------------------------------------------------- 
 
 
+
 ## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Roshann-96&theme=ubuntu" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshann-96&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 --------------------------------------------------------------------------------------
 ## 🚀 Thanks for Visiting My Profile !
