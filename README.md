@@ -13,9 +13,10 @@ Electronics Engineering Student | Embedded Systems Learner | C & Java Programmer
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Roshann-96&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-----------------------------------------------------------------------------------------
 
-## 📄 Professional Summary
+
+
+## 📝 Professional Summary
 
 Aspiring Software Engineer with knowledge of C Programming and Core Java, currently developing skills in Object-Oriented Programming, Data Structures & Algorithms, and problem solving. Completed an IoT internship with hands-on experience in programming, microcontrollers, and Bluetooth-based projects. Interested in Software Development and Embedded Systems, with a focus on continuously learning and building practical projects.
 
